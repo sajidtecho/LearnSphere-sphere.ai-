@@ -1,0 +1,9 @@
+{
+  "name": "LearnSphere",
+  "description": "An AI-powered personal learning companion that adapts to your unique learning style using Gemini 3 Pro and Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}

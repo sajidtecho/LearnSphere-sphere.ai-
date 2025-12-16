@@ -1,4 +1,5 @@
-# LearnSphere-sphere.ai-
+# LearnSphere - AI-Powered Learning Companion
+
 LearnSphere is a modern, AI-integrated educational platform designed to parse the learning experience. It leverages Google's Gemini AI to generate personalized course content, quizzes, and multimedia analysis, creating a dynamic and interactive learning environment.
 
 ## 🚀 Features
@@ -139,4 +140,4 @@ learnsphere/
 
 ---
 
-Made with ❤️ by Sajid Ahmad
+Made with ❤️ by [Your Name]
